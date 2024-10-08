@@ -1,0 +1,1939 @@
+.portfolio-chi-sono-child {
+    position: absolute;
+    top: 158px;
+    left: calc(50% - 610px);
+    border-radius: 20px;
+    background-color: #1b263b;
+    width: 348px;
+    height: 590px;
+}
+.immagine-1-icon {
+    position: absolute;
+    top: 30px;
+    left: calc(50% - 535px);
+    border-radius: 12px;
+    width: 198px;
+    height: 228px;
+    object-fit: cover;
+}
+.portfolio-chi-sono-item {
+    position: absolute;
+    top: 312px;
+    left: calc(50% - 519px);
+    border-radius: 12px;
+    background-color: #415a77;
+    width: 167px;
+    height: 78px;
+}
+.software-developer {
+    margin: 0;
+}
+.software-developer-web-container {
+    position: absolute;
+    top: 320px;
+    left: calc(50% - 511px);
+}
+.pasquale-laterza {
+    position: absolute;
+    top: 258px;
+    left: calc(50% - 544px);
+    font-size: 24px;
+    display: inline-block;
+    width: 217px;
+    height: 34px;
+}
+.portfolio-chi-sono-inner {
+    position: absolute;
+    top: 437px;
+    left: calc(50% - 583px);
+    border-radius: 12px;
+    background-color: #415a77;
+    width: 295px;
+    height: 205px;
+}
+.mola-di-bari {
+    position: absolute;
+    top: 527px;
+    left: calc(50% - 533px);
+}
+.location {
+    position: absolute;
+    top: 510px;
+    left: calc(50% - 533px);
+    font-size: 14px;
+    color: #e0e1dd;
+}
+.pasqualelaterza94gmailcom {
+    position: absolute;
+    top: 473px;
+    left: calc(50% - 533px);
+}
+.email {
+    position: absolute;
+    top: 456px;
+    left: calc(50% - 533px);
+    font-size: 14px;
+    color: #e0e1dd;
+}
+.direction-location-map-pointer-icon {
+    position: absolute;
+    top: 507px;
+    left: calc(50% - 582px);
+    width: 46px;
+    height: 46px;
+    object-fit: cover;
+}
+.linkedin-social-icon-1 {
+    position: absolute;
+    top: 577px;
+    left: calc(50% - 396px);
+    width: 44px;
+    height: 44px;
+    object-fit: cover;
+}
+.instagram-share-story-connecti-icon {
+    position: absolute;
+    top: 572px;
+    left: calc(50% - 522px);
+    width: 54px;
+    height: 54px;
+    object-fit: cover;
+}
+.download-import-save-down-stor-icon {
+    width: 23px;
+    position: relative;
+    height: 23px;
+    object-fit: cover;
+}
+.download-cv {
+    position: relative;
+    font-weight: 500;
+}
+.downloadcv {
+    position: absolute;
+    top: 676px;
+    left: calc(50% - 541px);
+    border-radius: 50px;
+    background-color: #415a77;
+    width: 204px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 24px;
+    box-sizing: border-box;
+    gap: 10px;
+    font-size: 18px;
+}
+.rectangle-div {
+    position: absolute;
+    top: 349px;
+    left: calc(50% - 190px);
+    border-radius: 20px;
+    background-color: #1b263b;
+    width: 800px;
+    height: 590px;
+}
+.portfolio-chi-sono-child1 {
+    position: absolute;
+    top: 158px;
+    left: calc(50% + 159px);
+    border-radius: 20px;
+    background-color: #1b263b;
+    width: 451px;
+    height: 120px;
+}
+.tab {
+    position: absolute;
+    height: 100%;
+    width: 26.47%;
+    top: 0%;
+    right: 73.53%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 15px;
+    background-color: #0d1b2a;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 2px;
+    box-sizing: border-box;
+    transition: background-color 0.3s;
+    cursor: pointer;
+}
+.tab2 {
+    position: absolute;
+    height: 100%;
+    width: 26.47%;
+    top: 0%;
+    right: 36.76%;
+    bottom: 0%;
+    left: 36.76%;
+    border-radius: 15px;
+    background-color: #415a77;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 2px;
+    box-sizing: border-box;
+    transition: background-color 0.3s;
+    cursor: pointer;
+}
+.tab4 {
+    position: absolute;
+    height: 100%;
+    width: 26.47%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 73.53%;
+    border-radius: 15px;
+    background-color: #415a77;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 2px;
+    box-sizing: border-box;
+    transition: background-color 0.3s;
+    cursor: pointer;
+}
+.tab-bar {
+    position: absolute;
+    top: 173px;
+    left: calc(50% + 215px);
+    width: 340px;
+    height: 90px;
+    font-size: 18px;
+}
+.chi-sono {
+    position: absolute;
+    top: 388px;
+    left: calc(50% - 161px);
+    font-size: 24px;
+}
+.ciao-mi-chiamo-container {
+    position: absolute;
+    top: 436px;
+    left: calc(50% - 161px);
+    text-align: justify;
+    display: inline-block;
+    width: 664px;
+}
+.skills {
+    position: absolute;
+    top: 388px;
+    left: calc(50% - 161px);
+    font-size: 24px;
+}
+.html {
+    position: relative;
+}
+.html-wrapper {
+    position: absolute;
+    top: 483px;
+    left: calc(50% - 126px);
+    border-radius: 12px;
+    background-color: #778da9;
+    width: 130px;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 16px 2px;
+    box-sizing: border-box;
+}
+.badge-html-html5-achievement-a-icon {
+    position: absolute;
+    top: 456px;
+    left: calc(50% - 87px);
+    width: 52px;
+    height: 52px;
+    object-fit: cover;
+}
+.css-wrapper {
+    position: absolute;
+    top: 483px;
+    left: calc(50% + 54px);
+    border-radius: 12px;
+    background-color: #778da9;
+    width: 130px;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 16px 2px;
+    box-sizing: border-box;
+}
+.javascript-wrapper {
+    position: absolute;
+    top: 483px;
+    left: calc(50% + 234px);
+    border-radius: 12px;
+    background-color: #778da9;
+    width: 130px;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 16px 2px;
+    box-sizing: border-box;
+}
+.figma-wrapper {
+    position: absolute;
+    top: 483px;
+    left: calc(50% + 414px);
+    border-radius: 12px;
+    background-color: #778da9;
+    width: 130px;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 16px 2px;
+    box-sizing: border-box;
+}
+.badge-css-css3-achievement-awa-icon {
+    position: absolute;
+    top: 456px;
+    left: calc(50% + 93px);
+    width: 52px;
+    height: 52px;
+    object-fit: cover;
+}
+.javascript-1-icon {
+    position: absolute;
+    top: 456px;
+    left: calc(50% + 273px);
+    width: 52px;
+    height: 52px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.figma-logo-brand-icon-1 {
+    position: absolute;
+    top: 456px;
+    left: calc(50% + 451px);
+    width: 55px;
+    height: 55px;
+    object-fit: cover;
+}
+.java-wrapper {
+    position: absolute;
+    top: 614px;
+    left: calc(50% - 125px);
+    border-radius: 12px;
+    background-color: #778da9;
+    width: 130px;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 16px 2px;
+    box-sizing: border-box;
+}
+.python-wrapper {
+    position: absolute;
+    top: 614px;
+    left: calc(50% + 55px);
+    border-radius: 12px;
+    background-color: #778da9;
+    width: 130px;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 16px 2px;
+    box-sizing: border-box;
+}
+.c-wrapper {
+    position: absolute;
+    top: 614px;
+    left: calc(50% + 235px);
+    border-radius: 12px;
+    background-color: #778da9;
+    width: 130px;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 16px 2px;
+    box-sizing: border-box;
+}
+.c-container {
+    position: absolute;
+    top: 614px;
+    left: calc(50% + 415px);
+    border-radius: 12px;
+    background-color: #778da9;
+    width: 130px;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 16px 2px;
+    box-sizing: border-box;
+}
+.java-emblem-1-icon {
+    position: absolute;
+    top: 588px;
+    left: calc(50% - 87px);
+    width: 52px;
+    height: 52px;
+    object-fit: cover;
+}
+.logo-python-icon-1 {
+    position: absolute;
+    top: 588px;
+    left: calc(50% + 91px);
+    width: 55px;
+    height: 55px;
+    object-fit: cover;
+}
+.pngegg-1-icon {
+    position: absolute;
+    top: 588px;
+    left: calc(50% + 272px);
+    width: 55px;
+    height: 55px;
+    object-fit: cover;
+}
+.c-logo-plus-plus-plus-icon {
+    position: absolute;
+    top: 588px;
+    left: calc(50% + 452px);
+    width: 55px;
+    height: 55px;
+    object-fit: cover;
+}
+.mysql-wrapper {
+    position: absolute;
+    top: 745px;
+    left: calc(50% - 126px);
+    border-radius: 12px;
+    background-color: #778da9;
+    width: 130px;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 16px 2px;
+    box-sizing: border-box;
+}
+.git-wrapper {
+    position: absolute;
+    top: 745px;
+    left: calc(50% + 54px);
+    border-radius: 12px;
+    background-color: #778da9;
+    width: 130px;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 16px 2px;
+    box-sizing: border-box;
+}
+.github-wrapper {
+    position: absolute;
+    top: 745px;
+    left: calc(50% + 234px);
+    border-radius: 12px;
+    background-color: #778da9;
+    width: 130px;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 16px 2px;
+    box-sizing: border-box;
+}
+.office-wrapper {
+    position: absolute;
+    top: 745px;
+    left: calc(50% + 414px);
+    border-radius: 12px;
+    background-color: #778da9;
+    width: 130px;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 16px 2px;
+    box-sizing: border-box;
+}
+.mysql-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #fff;
+}
+.code-development-logo-mysql-ic-icon {
+    position: absolute;
+    height: 100%;
+    width: 98.21%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 1.79%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.mysql1 {
+    position: absolute;
+    top: 717px;
+    left: calc(50% - 89px);
+    width: 56px;
+    height: 55px;
+}
+.git-social-media-icon-1 {
+    position: absolute;
+    top: 717px;
+    left: calc(50% + 93px);
+    width: 55px;
+    height: 55px;
+    object-fit: cover;
+}
+.github-child {
+    position: absolute;
+    height: 100%;
+    width: 98.18%;
+    top: 0%;
+    right: 1.82%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #fff;
+}
+.social-github-icon-1 {
+    position: absolute;
+    height: 100%;
+    width: 98.18%;
+    top: 0%;
+    right: 1.82%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.github1 {
+    position: absolute;
+    top: 717px;
+    left: calc(50% + 271px);
+    width: 55px;
+    height: 55px;
+}
+.logo-office-icon-1 {
+    position: absolute;
+    top: 717px;
+    left: calc(50% + 451px);
+    width: 55px;
+    height: 55px;
+    object-fit: cover;
+}
+.contattami {
+    position: absolute;
+    top: 390px;
+    left: calc(50% - 161px);
+    font-size: 24px;
+}
+.pngimgcom-macbook-png101761 {
+    position: absolute;
+    top: 456px;
+    left: calc(50% - 190px);
+    width: 800px;
+    height: 470px;
+    object-fit: cover;
+}
+.favpng-social-media-email-gmai-icon {
+    position: absolute;
+    top: 447px;
+    left: calc(50% - 580px);
+    width: 42px;
+    height: 60px;
+    object-fit: cover;
+}
+.nome-wrapper {
+    width: 295px;
+    border-radius: 5px;
+    background-color: #fff;
+    height: 38px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 6px 12px;
+    box-sizing: border-box;
+}
+.nome-frame {
+    width: 295px;
+    border-radius: 5px;
+    background-color: #fff;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 6px 12px;
+    box-sizing: border-box;
+}
+.frame-parent {
+    position: absolute;
+    top: 493px;
+    left: calc(50% - 90px);
+    background-color: #778da9;
+    width: 602px;
+    height: 359px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0px 70px;
+    box-sizing: border-box;
+    gap: 15px;
+    text-align: left;
+    color: #000;
+}
+.invia-wrapper {
+    position: absolute;
+    top: 798px;
+    left: calc(50% + 96px);
+    border-radius: 10px;
+    background-color: #fff;
+    width: 65px;
+    height: 38px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 6px 12px;
+    box-sizing: border-box;
+    color: #000;
+    cursor: pointer;
+}
+.lasciami-un-messaggio {
+    position: absolute;
+    top: 525px;
+    left: calc(50% - 20px);
+    font-size: 18px;
+}
+.portfolio-chi-sono {
+    width: 100%;
+    position: relative;
+    background-color: #778da9;
+    height: 105vh;
+    min-height: 982px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+    font-family: Inter;
+}
+a {
+    color: #fff;
+    text-decoration: none;
+}
+#skills, #contatti {
+    display: none;
+}
+.portfolio-chi-sono-mobile {
+    display: none;
+}
+
+@media(max-width: 1239px) {
+    .portfolio-chi-sono-child {
+        position: absolute;
+        top: 158px;
+        left: calc(50% - 405.5px);
+        border-radius: 20px;
+        background-color: #1b263b;
+        width: 267px;
+        height: 590px;
+    }
+    .immagine-1-icon {
+        position: absolute;
+        top: 30px;
+        left: calc(50% - 371.5px);
+        border-radius: 12px;
+        width: 198px;
+        height: 228px;
+        object-fit: cover;
+    }
+    .portfolio-chi-sono-item {
+        position: absolute;
+        top: 312px;
+        left: calc(50% - 355.5px);
+        border-radius: 12px;
+        background-color: #415a77;
+        width: 167px;
+        height: 78px;
+    }
+    .software-developer-web-container {
+        position: absolute;
+        top: 320px;
+        left: calc(50% - 347.5px);
+    }
+    .pasquale-laterza {
+        position: absolute;
+        top: 258px;
+        left: calc(50% - 380.5px);
+        font-size: 24px;
+        display: inline-block;
+        width: 217px;
+        height: 34px;
+    }
+    .portfolio-chi-sono-inner {
+        position: absolute;
+        top: 437px;
+        left: calc(50% - 392.5px);
+        border-radius: 12px;
+        background-color: #415a77;
+        width: 241px;
+        height: 205px;
+    }
+    .mola-di-bari {
+        position: absolute;
+        top: 537px;
+        left: calc(50% - 344.5px);
+    }
+    .location {
+        position: absolute;
+        top: 520px;
+        left: calc(50% - 344.5px);
+        font-size: 14px;
+        color: #e0e1dd;
+    }
+    .pasqualelaterza94gmailcom {
+        position: absolute;
+        top: 470px;
+        left: calc(50% - 344.5px);
+        text-align: left;
+        display: inline-block;
+        width: 164px;
+        overflow-wrap: break-word;
+    }
+    .email {
+        position: absolute;
+        top: 453px;
+        left: calc(50% - 344.5px);
+        font-size: 14px;
+        color: #e0e1dd;
+    }
+    .direction-location-map-pointer-icon {
+        position: absolute;
+        top: 517px;
+        left: calc(50% - 393.5px);
+        width: 46px;
+        height: 46px;
+        object-fit: cover;
+    }
+    .linkedin-social-icon-1 {
+        position: absolute;
+        top: 577px;
+        left: calc(50% - 232.5px);
+        width: 44px;
+        height: 44px;
+        object-fit: cover;
+    }
+    .instagram-share-story-connecti-icon {
+        position: absolute;
+        top: 572px;
+        left: calc(50% - 358.5px);
+        width: 54px;
+        height: 54px;
+        object-fit: cover;
+        cursor: pointer;
+    }
+    .download-import-save-down-stor-icon {
+        width: 23px;
+        position: relative;
+        height: 23px;
+        object-fit: cover;
+    }
+    .download-cv {
+        position: relative;
+        font-weight: 500;
+    }
+    .downloadcv {
+        position: absolute;
+        top: 676px;
+        left: calc(50% - 377.5px);
+        border-radius: 50px;
+        background-color: #415a77;
+        width: 204px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 12px 24px;
+        box-sizing: border-box;
+        gap: 10px;
+        font-size: 18px;
+    }
+    .rectangle-div {
+        position: absolute;
+        top: 349px;
+        left: calc(50% - 93.5px);
+        border-radius: 20px;
+        background-color: #1b263b;
+        width: 500px;
+        height: 590px;
+    }
+    .portfolio-chi-sono-child1 {
+        position: absolute;
+        top: 158px;
+        left: calc(50% - 44.5px);
+        border-radius: 20px;
+        background-color: #1b263b;
+        width: 451px;
+        height: 120px;
+    }
+    .tab-bar {
+        position: absolute;
+        top: 173px;
+        left: calc(50% + 11.5px);
+        width: 340px;
+        height: 90px;
+        font-size: 18px;
+     }
+    .chi-sono {
+        position: absolute;
+        top: 388px;
+        left: calc(50% - 64.5px);
+        font-size: 24px;
+    }
+    .ciao-mi-chiamo-container {
+        position: absolute;
+        top: 436px;
+        left: calc(50% - 64.5px);
+        text-align: justify;
+        display: inline-block;
+        width: 406px;
+    }
+    .favpng-social-media-email-gmai-icon {
+        position: absolute;
+        top: 447px;
+        left: calc(50% - 389.5px);
+        width: 42px;
+        height: 60px;
+        object-fit: cover;
+    }
+    .skills {
+        position: absolute;
+        top: 390px;
+        left: calc(50% - 64.5px);
+        font-size: 24px;
+    }
+    .html-wrapper {
+        position: absolute;
+        top: 480px;
+        left: calc(50% - 71.5px);
+        border-radius: 12px;
+        background-color: #778da9;
+        width: 121px;
+        height: 70px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 20px 16px 2px;
+        box-sizing: border-box;
+    }
+    .badge-html-html5-achievement-a-icon {
+        position: absolute;
+        top: 453px;
+        left: calc(50% - 35.5px);
+        width: 49px;
+        height: 52px;
+        object-fit: cover;
+    }
+    .css-wrapper {
+        position: absolute;
+        top: 480px;
+        left: calc(50% + 95.5px);
+        border-radius: 12px;
+        background-color: #778da9;
+        width: 121px;
+        height: 70px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 20px 16px 2px;
+        box-sizing: border-box;
+    }
+    .javascript-wrapper {
+        position: absolute;
+        top: 480px;
+        left: calc(50% + 263.5px);
+        border-radius: 12px;
+        background-color: #778da9;
+        width: 121px;
+        height: 70px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 20px 16px 2px;
+        box-sizing: border-box;
+    }
+    .figma-wrapper {
+        position: absolute;
+        top: 601px;
+        left: calc(50% + 263.5px);
+        border-radius: 12px;
+        background-color: #778da9;
+        width: 121px;
+        height: 70px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 20px 16px 2px;
+        box-sizing: border-box;
+    }
+    .badge-css-css3-achievement-awa-icon {
+        position: absolute;
+        top: 453px;
+        left: calc(50% + 132.5px);
+        width: 48px;
+        height: 52px;
+        object-fit: cover;
+    }
+    .javascript-1-icon {
+        position: absolute;
+        top: 453px;
+        left: calc(50% + 299.5px);
+        width: 49px;
+        height: 52px;
+        overflow: hidden;
+        object-fit: cover;
+    }
+    .figma-logo-brand-icon-1 {
+        position: absolute;
+        top: 574px;
+        left: calc(50% + 297.5px);
+        width: 52px;
+        height: 55px;
+        object-fit: cover;
+    }
+    .java-wrapper {
+        position: absolute;
+        top: 601px;
+        left: calc(50% - 71.5px);
+        border-radius: 12px;
+        background-color: #778da9;
+        width: 121px;
+        height: 70px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 20px 16px 2px;
+        box-sizing: border-box;
+    }
+    .python-wrapper {
+        position: absolute;
+        top: 601px;
+        left: calc(50% + 95.5px);
+        border-radius: 12px;
+        background-color: #778da9;
+        width: 121px;
+        height: 70px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 20px 16px 2px;
+        box-sizing: border-box;
+    }
+    .c-wrapper {
+        position: absolute;
+        top: 722px;
+        left: calc(50% - 72.5px);
+        border-radius: 12px;
+        background-color: #778da9;
+        width: 121px;
+        height: 70px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 20px 16px 2px;
+        box-sizing: border-box;
+    }
+    .c-container {
+        position: absolute;
+        top: 722px;
+        left: calc(50% + 95.5px);
+        border-radius: 12px;
+        background-color: #778da9;
+        width: 121px;
+        height: 70px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 20px 16px 2px;
+        box-sizing: border-box;
+    }
+    .java-emblem-1-icon {
+        position: absolute;
+        top: 575px;
+        left: calc(50% - 36.5px);
+        width: 49px;
+        height: 52px;
+        object-fit: cover;
+    }
+    .logo-python-icon-1 {
+        position: absolute;
+        top: 575px;
+        left: calc(50% + 129.5px);
+        width: 51px;
+        height: 55px;
+        object-fit: cover;
+    }
+    .pngegg-1-icon {
+        position: absolute;
+        top: 696px;
+        left: calc(50% - 38.5px);
+        width: 52px;
+        height: 55px;
+        object-fit: cover;
+    }
+    .c-logo-plus-plus-plus-icon {
+        position: absolute;
+        top: 699px;
+        left: calc(50% + 130.5px);
+        width: 51px;
+        height: 55px;
+        object-fit: cover;
+    }
+    .mysql-wrapper {
+        position: absolute;
+        top: 722px;
+        left: calc(50% + 263.5px);
+        border-radius: 12px;
+        background-color: #778da9;
+        width: 121px;
+        height: 70px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 20px 16px 2px;
+        box-sizing: border-box;
+    }
+    .git-wrapper {
+        position: absolute;
+        top: 842px;
+        left: calc(50% - 72.5px);
+        border-radius: 12px;
+        background-color: #778da9;
+        width: 121px;
+        height: 70px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 20px 16px 2px;
+        box-sizing: border-box;
+    }
+    .github-wrapper {
+        position: absolute;
+        top: 842px;
+        left: calc(50% + 95.5px);
+        border-radius: 12px;
+        background-color: #778da9;
+        width: 121px;
+        height: 70px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 20px 16px 2px;
+        box-sizing: border-box;
+    }
+    .office-wrapper {
+        position: absolute;
+        top: 842px;
+        left: calc(50% + 263.5px);
+        border-radius: 12px;
+        background-color: #778da9;
+        width: 121px;
+        height: 70px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 20px 16px 2px;
+        box-sizing: border-box;
+    }
+    .mysql-child {
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        top: 0%;
+        right: 0%;
+        bottom: 0%;
+        left: 0%;
+        background-color: #fff;
+    }
+    .code-development-logo-mysql-ic-icon {
+        position: absolute;
+        height: 100%;
+        width: 98.3%;
+        top: 0%;
+        right: -0.09%;
+        bottom: 0%;
+        left: 1.79%;
+        max-width: 100%;
+        overflow: hidden;
+        max-height: 100%;
+        object-fit: cover;
+    }
+    .mysql1 {
+        position: absolute;
+        top: 691px;
+        left: calc(50% + 297.5px);
+        width: 53px;
+        height: 55px;
+    }
+    .git-social-media-icon-1 {
+        position: absolute;
+        top: 814px;
+        left: calc(50% - 36.5px);
+        width: 51px;
+        height: 55px;
+        object-fit: cover;
+        }
+    .github-child {
+        position: absolute;
+        height: 100%;
+        width: 98.24%;
+        top: 0%;
+        right: 1.76%;
+        bottom: 0%;
+        left: 0%;
+        background-color: #fff;
+    }
+    .social-github-icon-1 {
+        position: absolute;
+        height: 100%;
+        width: 98.24%;
+        top: 0%;
+        right: 1.76%;
+        bottom: 0%;
+        left: 0%;
+        max-width: 100%;
+        overflow: hidden;
+        max-height: 100%;
+        object-fit: cover;
+    }
+    .github1 {
+        position: absolute;
+        top: 814px;
+        left: calc(50% + 130.5px);
+        width: 51px;
+        height: 55px;
+    }
+    .logo-office-icon-1 {
+        position: absolute;
+        top: 814px;
+        left: calc(50% + 297.5px);
+        width: 52px;
+        height: 55px;
+        object-fit: cover;
+    }
+    .contattami {
+        position: absolute;
+        top: 390px;
+        left: calc(50% - 64.5px);
+        font-size: 24px;
+    }
+    .pngimgcom-macbook-png101761 {
+        display: none;
+    }
+    .nome-wrapper {
+        width: 295px;
+        border-radius: 5px;
+        background-color: #fff;
+        height: 38px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-start;
+        padding: 6px 12px;
+        box-sizing: border-box;
+    }
+    .nome-frame {
+        width: 295px;
+        border-radius: 5px;
+        background-color: #fff;
+        height: 100px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        padding: 6px 12px;
+        box-sizing: border-box;
+    }
+    .frame-parent {
+        position: absolute;
+        top: 468px;
+        left: calc(50% - 83.5px);
+        border-radius: 12px;
+        background-color: #778da9;
+        width: 480px;
+        height: 359px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 15px;
+        text-align: left;
+        color: #000;
+    }
+    .invia-wrapper {
+        position: absolute;
+        top: 773px;
+        left: calc(50% + 123.5px);
+        border-radius: 10px;
+        background-color: #fff;
+        width: 65px;
+        height: 38px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 6px 12px;
+        box-sizing: border-box;
+        color: #000;
+        cursor: pointer;
+    }
+    .lasciami-un-messaggio {
+        position: absolute;
+        top: 500px;
+        left: calc(50% + 8.5px);
+        font-size: 18px;
+    }
+}
+
+
+@media(max-width: 834px) {
+    .portfolio-chi-sono {
+        display: none;
+    }
+    .portfolio-chi-sono-mobile {
+        display: block;
+        width: 100%;
+        position: relative;
+        background-color: #778da9;
+        height: 105vh;
+        min-height: 2950px;
+        overflow: hidden;
+        text-align: center;
+        font-size: 16px;
+        color: #fff;
+        font-family: Inter;
+    }
+    .blank-line {
+        margin: 0;
+    }
+    .ciao-mi-chiamo-container-mobile {
+        align-self: stretch;
+        flex: 1;
+        position: relative;
+    }
+    .ciao-mi-chiamo-pasquale-later-wrapper {
+        position: absolute;
+        width: 96.67%;
+        top: 906px;
+        right: 1.67%;
+        left: 1.67%;
+        border-radius: 20px;
+        background-color: #1b263b;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 10px;
+        box-sizing: border-box;
+        min-height: 492px;
+        text-align: left;
+    }
+    .chi-sono-mobile {
+        position: relative;
+    }
+    .chi-sono-wrapper-mobile {
+        position: absolute;
+        width: 96.67%;
+        top: 874px;
+        right: 1.67%;
+        left: 1.67%;
+        border-radius: 20px;
+        background-color: #1b263b;
+        height: 66px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 10px;
+        box-sizing: border-box;
+        font-size: 24px;
+    }
+    .portfolio-chi-sono-mobile-child {
+        position: absolute;
+        width: 96.67%;
+        top: 185px;
+        right: 1.67%;
+        left: 1.67%;
+        border-radius: 20px;
+        background-color: #1b263b;
+        height: 590px;
+    }
+    .immagine-1-icon {
+        position: absolute;
+        top: 57px;
+        left: calc(50% - 99px);
+        border-radius: 12px;
+        width: 198px;
+        height: 228px;
+        object-fit: cover;
+    }
+    .portfolio-chi-sono-mobile-item {
+        position: absolute;
+        top: 339px;
+        left: calc(50% - 83px);
+        border-radius: 12px;
+        background-color: #415a77;
+        width: 167px;
+        height: 78px;
+    }
+    .software-developer-web-container-mobile {
+        position: absolute;
+        top: 347px;
+        left: calc(50% - 75px);
+    }
+    .portfolio-chi-sono-mobile-inner {
+        position: absolute;
+        top: 464px;
+        left: calc(50% - 147px);
+        border-radius: 12px;
+        background-color: #415a77;
+        width: 295px;
+        height: 205px;
+    }
+    .mola-di-bari {
+        position: absolute;
+        top: 554px;
+        left: calc(50% - 97px);
+    }
+    .location {
+        position: absolute;
+        top: 537px;
+        left: calc(50% - 97px);
+        font-size: 14px;
+        color: #e0e1dd;
+    }
+    .pasqualelaterza94gmailcom {
+        position: absolute;
+        top: 500px;
+        left: calc(50% - 97px);
+        overflow-wrap: normal;
+    }
+    .email {
+        position: absolute;
+        top: 483px;
+        left: calc(50% - 97px);
+        font-size: 14px;
+        color: #e0e1dd;
+    }
+    .direction-location-map-pointer-icon {
+        position: absolute;
+        top: 534px;
+        left: calc(50% - 146px);
+        width: 46px;
+        height: 46px;
+        object-fit: cover;
+    }
+    .linkedin-social-icon-1 {
+        position: absolute;
+        top: 604px;
+        left: calc(50% + 36px);
+        width: 44px;
+        height: 44px;
+        object-fit: cover;
+    }
+    .instagram-share-story-connecti-icon {
+        position: absolute;
+        top: 599px;
+        left: calc(50% - 80px);
+        width: 54px;
+        height: 54px;
+        object-fit: cover;
+        cursor: pointer;
+    }
+    .download-import-save-down-stor-icon {
+        width: 23px;
+        position: relative;
+        height: 23px;
+        object-fit: cover;
+    }
+    .download-cv {
+        position: relative;
+        font-weight: 500;
+    }
+    .downloadcv {
+        position: absolute;
+        top: 703px;
+        left: calc(50% - 102px);
+        border-radius: 50px;
+        background-color: #415a77;
+        width: 204px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 12px 24px;
+        box-sizing: border-box;
+        gap: 10px;
+    }
+    .pasquale-laterza {
+        position: absolute;
+        top: 285px;
+        left: calc(50% - 108px);
+        font-size: 24px;
+        display: inline-block;
+        width: 217px;
+        height: 34px;
+    }
+    .favpng-social-media-email-gmai-icon {
+        position: absolute;
+        top: 474px;
+        left: calc(50% - 144px);
+        width: 42px;
+        height: 60px;
+        object-fit: cover;
+    }
+    .rectangle-div {
+        position: absolute;
+        width: 96.67%;
+        top: 1538px;
+        right: 1.67%;
+        left: 1.67%;
+        border-radius: 20px;
+        background-color: #1b263b;
+        height: 630px;
+    }
+    .skills {
+        position: absolute;
+        top: 10px;
+        left: calc(50% - 31.5px);
+    }
+    .skills-wrapper {
+        position: absolute;
+        top: 1560px;
+        left: calc(50% - 59px);
+        width: 119px;
+        height: 49px;
+        font-size: 24px;
+    }
+    .html-wrapper {
+        position: absolute;
+        width: 24.44%;
+        top: 1671px;
+        right: 72.22%;
+        left: 3.33%;
+        border-radius: 12px;
+        background-color: #778da9;
+        height: 70px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 20px 16px 2px;
+        box-sizing: border-box;
+    }
+    .badge-html-html5-achievement-a-icon {
+        position: absolute;
+        width: 9.72%;
+        top: 1644px;
+        right: 79.44%;
+        left: 10.83%;
+        max-width: 100%;
+        overflow: hidden;
+        height: 52px;
+        object-fit: cover;
+    }
+    .css-wrapper {
+        position: absolute;
+        width: 25%;
+        top: 1671px;
+        right: 37.22%;
+        left: 37.78%;
+        border-radius: 12px;
+        background-color: #778da9;
+        height: 70px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 20px 16px 2px;
+        box-sizing: border-box;
+    }
+    .javascript-wrapper {
+        position: absolute;
+        width: 24.44%;
+        top: 1671px;
+        right: 3.33%;
+        left: 72.22%;
+        border-radius: 12px;
+        background-color: #778da9;
+        height: 70px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 20px 16px 2px;
+        box-sizing: border-box;
+    }
+    .figma-wrapper {
+        position: absolute;
+        width: 24.72%;
+        top: 1802px;
+        right: 3.33%;
+        left: 71.94%;
+        border-radius: 12px;
+        background-color: #778da9;
+        height: 70px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 20px 16px 2px;
+        box-sizing: border-box;
+    }
+    .badge-css-css3-achievement-awa-icon {
+        position: absolute;
+        width: 9.72%;
+        top: 1644px;
+        right: 44.44%;
+        left: 45.83%;
+        max-width: 100%;
+        overflow: hidden;
+        height: 52px;
+        object-fit: cover;
+    }
+    .javascript-1-icon {
+        position: absolute;
+        width: 9.44%;
+        top: 1644px;
+        right: 11.11%;
+        left: 79.44%;
+        max-width: 100%;
+        overflow: hidden;
+        height: 52px;
+        object-fit: cover;
+    }
+    .figma-logo-brand-icon-1 {
+        position: absolute;
+        width: 10.56%;
+        top: 1775px;
+        right: 10.56%;
+        left: 78.89%;
+        max-width: 100%;
+        overflow: hidden;
+        height: 55px;
+        object-fit: cover;
+    }
+    .java-wrapper {
+        position: absolute;
+        width: 24.72%;
+        top: 1802px;
+        right: 71.94%;
+        left: 3.33%;
+        border-radius: 12px;
+        background-color: #778da9;
+        height: 70px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 20px 16px 2px;
+        box-sizing: border-box;
+    }
+    .python-wrapper {
+        position: absolute;
+        width: 24.72%;
+        top: 1802px;
+        right: 37.5%;
+        left: 37.78%;
+        border-radius: 12px;
+        background-color: #778da9;
+        height: 70px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 20px 16px 2px;
+        box-sizing: border-box;
+    }
+    .c-wrapper {
+        position: absolute;
+        width: 24.72%;
+        top: 1931px;
+        right: 71.94%;
+        left: 3.33%;
+        border-radius: 12px;
+        background-color: #778da9;
+        height: 70px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 20px 16px 2px;
+        box-sizing: border-box;
+    }
+    .c-container {
+        position: absolute;
+        width: 24.72%;
+        top: 1931px;
+        right: 37.5%;
+        left: 37.78%;
+        border-radius: 12px;
+        background-color: #778da9;
+        height: 70px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 20px 16px 2px;
+        box-sizing: border-box;
+    }
+    .java-emblem-1-icon {
+        position: absolute;
+        width: 9.72%;
+        top: 1776px;
+        right: 79.72%;
+        left: 10.56%;
+        max-width: 100%;
+        overflow: hidden;
+        height: 52px;
+        object-fit: cover;
+    }
+    .logo-python-icon-1 {
+        position: absolute;
+        width: 10.56%;
+        top: 1776px;
+        right: 45%;
+        left: 44.44%;
+        max-width: 100%;
+        overflow: hidden;
+        height: 55px;
+        object-fit: cover;
+    }
+    .pngegg-1-icon {
+        position: absolute;
+        width: 10%;
+        top: 1905px;
+        right: 79.72%;
+        left: 10.28%;
+        max-width: 100%;
+        overflow: hidden;
+        height: 55px;
+        object-fit: cover;
+    }
+    .c-logo-plus-plus-plus-icon {
+        position: absolute;
+        width: 10.28%;
+        top: 1905px;
+        right: 44.72%;
+        left: 45%;
+        max-width: 100%;
+        overflow: hidden;
+        height: 55px;
+        object-fit: cover;
+    }
+    .mysql-wrapper {
+        position: absolute;
+        width: 24.44%;
+        top: 1931px;
+        right: 3.33%;
+        left: 72.22%;
+        border-radius: 12px;
+        background-color: #778da9;
+        height: 70px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 20px 16px 2px;
+        box-sizing: border-box;
+    }
+    .git-wrapper {
+        position: absolute;
+        width: 24.72%;
+        top: 2055px;
+        right: 71.94%;
+        left: 3.33%;
+        border-radius: 12px;
+        background-color: #778da9;
+        height: 70px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 20px 16px 2px;
+        box-sizing: border-box;
+    }
+    .github-wrapper {
+        position: absolute;
+        width: 24.72%;
+        top: 2055px;
+        right: 37.5%;
+        left: 37.78%;
+        border-radius: 12px;
+        background-color: #778da9;
+        height: 70px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 20px 16px 2px;
+        box-sizing: border-box;
+    }
+    .office-wrapper {
+        position: absolute;
+        width: 24.72%;
+        top: 2055px;
+        right: 3.33%;
+        left: 71.94%;
+        border-radius: 12px;
+        background-color: #778da9;
+        height: 70px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 20px 16px 2px;
+        box-sizing: border-box;
+    }
+    .mysql-child {
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        top: 0%;
+        right: 0%;
+        bottom: 0%;
+        left: 0%;
+        background-color: #fff;
+    }
+    .code-development-logo-mysql-ic-icon {
+        position: absolute;
+        height: 100%;
+        width: 98.24%;
+        top: 0%;
+        right: -0.02%;
+        bottom: 0%;
+        left: 1.79%;
+        max-width: 100%;
+        overflow: hidden;
+        max-height: 100%;
+        object-fit: cover;
+    }
+    .mysql1 {
+        position: absolute;
+        width: 14.17%;
+        top: 1905px;
+        right: 8.89%;
+        left: 76.94%;
+        height: 55px;
+    }
+    .git-social-media-icon-1 {
+        position: absolute;
+        width: 10%;
+        top: 2027px;
+        right: 78.61%;
+        left: 11.39%;
+        max-width: 100%;
+        overflow: hidden;
+        height: 55px;
+        object-fit: cover;
+    }
+    .github-child {
+        position: absolute;
+        height: 100%;
+        width: 98.33%;
+        top: 0%;
+        right: 1.67%;
+        bottom: 0%;
+        left: 0%;
+        background-color: #fff;
+    }
+    .social-github-icon-1 {
+        position: absolute;
+        height: 100%;
+        width: 98.33%;
+        top: 0%;
+        right: 1.67%;
+        bottom: 0%;
+        left: 0%;
+        max-width: 100%;
+        overflow: hidden;
+        max-height: 100%;
+        object-fit: cover;
+    }
+    .github1 {
+        position: absolute;
+        width: 10%;
+        top: 2027px;
+        right: 45%;
+        left: 45%;
+        height: 55px;
+    }
+    .logo-office-icon-1 {
+        position: absolute;
+        width: 10.56%;
+        top: 2027px;
+        right: 10.56%;
+        left: 78.89%;
+        max-width: 100%;
+        overflow: hidden;
+        height: 55px;
+        object-fit: cover;
+    }
+    .portfolio-chi-sono-mobile-child1 {
+        position: absolute;
+        width: 96.67%;
+        top: 2267px;
+        right: 1.67%;
+        left: 1.67%;
+        border-radius: 20px;
+        background-color: #1b263b;
+        height: 630px;
+    }
+    .contattami {
+        position: absolute;
+        top: 10px;
+        left: calc(50% - 66px);
+    }
+    .contattami-wrapper {
+        position: absolute;
+        top: 2290px;
+        left: calc(50% - 69px);
+        width: 138px;
+        height: 49px;
+        font-size: 24px;
+    }
+    .nome {
+        width: 40px;
+        position: relative;
+        display: flex;
+        align-items: center;
+        height: 38px;
+        flex-shrink: 0;
+    }
+    .nome-wrapper {
+        width: 275px;
+        border-radius: 5px;
+        background-color: #fff;
+        height: 38px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-start;
+        padding: 6px 12px;
+        box-sizing: border-box;
+    }
+    .nome2 {
+        width: 40px;
+        position: relative;
+        display: inline-block;
+        height: 38px;
+        flex-shrink: 0;
+    }
+    .nome-frame {
+        width: 275px;
+        border-radius: 5px;
+        background-color: #fff;
+        height: 100px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        padding: 6px 12px;
+        box-sizing: border-box;
+    }
+    .frame-parent {
+        position: absolute;
+        width: 90.56%;
+        top: 2402px;
+        right: 4.72%;
+        left: 4.72%;
+        border-radius: 12px;
+        background-color: #778da9;
+        height: 359px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 15px;
+        text-align: left;
+        font-size: 14px;
+        color: #000;
+    }
+    .invia {
+        width: 40px;
+        position: relative;
+        font-weight: 500;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 38px;
+        flex-shrink: 0;
+    }
+    .invia-wrapper {
+        position: absolute;
+        top: 2707px;
+        left: calc(50% - 33px);
+        border-radius: 10px;
+        background-color: #fff;
+        width: 65px;
+        height: 38px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 6px 12px;
+        box-sizing: border-box;
+        font-size: 14px;
+        color: #000;
+    }
+    .lasciami-un-messaggio {
+        position: absolute;
+        top: 2434px;
+        left: calc(50% - 103px);
+    }
+}
