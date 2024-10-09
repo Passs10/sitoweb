@@ -1,3 +1,7 @@
+body {
+    margin: 0;
+    line-height: normal;
+}
 .portfolio-chi-sono-child {
     position: absolute;
     top: 158px;
@@ -1847,16 +1851,8 @@ a {
         height: 49px;
         font-size: 24px;
     }
-    .nome {
-        width: 40px;
-        position: relative;
-        display: flex;
-        align-items: center;
-        height: 38px;
-        flex-shrink: 0;
-    }
     .nome-wrapper {
-        width: 275px;
+        width: 285px;
         border-radius: 5px;
         background-color: #fff;
         height: 38px;
@@ -1867,15 +1863,8 @@ a {
         padding: 6px 12px;
         box-sizing: border-box;
     }
-    .nome2 {
-        width: 40px;
-        position: relative;
-        display: inline-block;
-        height: 38px;
-        flex-shrink: 0;
-    }
     .nome-frame {
-        width: 275px;
+        width: 285px;
         border-radius: 5px;
         background-color: #fff;
         height: 100px;
