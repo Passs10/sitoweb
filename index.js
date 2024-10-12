@@ -90,8 +90,3 @@ downloadcv.addEventListener('mousedown', function() {
 downloadcv.addEventListener('mouseup', function() {
     downloadcv.style.backgroundColor = '#415a77';
 });
-
-window.onload = function() {
-    // Reset the form fields when the page loads
-    document.getElementById("form").reset();
-};
