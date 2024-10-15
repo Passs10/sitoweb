@@ -642,12 +642,46 @@ body {
     left: calc(50% - 20px);
     font-size: 18px;
 }
+.copyright {
+    flex: 1;
+    position: relative;
+    font-weight: 500;
+}
+.footer {
+    position: absolute;
+    width: 100%;
+    top: 989px;
+    right: 0%;
+    left: 0%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 10px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+.iubenda {
+    position: absolute;
+    width: 100%;
+    top: 1010px;
+    right: 0%;
+    left: 0%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 10px;
+    box-sizing: border-box;
+}
 .portfolio-chi-sono {
     width: 100%;
     position: relative;
     background-color: #778da9;
     height: 105vh;
-    min-height: 982px;
+    min-height: 1057px;
     overflow: hidden;
     text-align: center;
     font-size: 16px;
@@ -1255,7 +1289,7 @@ a {
         position: relative;
         background-color: #778da9;
         height: 105vh;
-        min-height: 2950px;
+        min-height: 2971px;
         overflow: hidden;
         text-align: center;
         font-size: 16px;
@@ -1836,7 +1870,7 @@ a {
         left: 1.67%;
         border-radius: 20px;
         background-color: #1b263b;
-        height: 630px;
+        height: 600px;
     }
     .contattami {
         position: absolute;
@@ -1924,5 +1958,39 @@ a {
         position: absolute;
         top: 2434px;
         left: calc(50% - 103px);
+    }
+    .copyright {
+        flex: 1;
+        position: relative;
+        font-weight: 500;
+    }
+    .footer {
+        position: absolute;
+        width: 100%;
+        top: 2903px;
+        right: 0%;
+        left: 0%;
+        overflow: hidden;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 0px 10px;
+        box-sizing: border-box;
+        font-size: 14px;
+    }
+    .iubenda {
+        position: absolute;
+        width: 100%;
+        top: 2924px;
+        right: 0%;
+        left: 0%;
+        overflow: hidden;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 0px 10px;
+        box-sizing: border-box;
     }
 }
