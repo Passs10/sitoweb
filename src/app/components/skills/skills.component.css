@@ -1,0 +1,10 @@
+.skills-section h2 {
+    font-size: 24px; /* Titolo in 24px */
+    font-weight: bold; /* Grassetto */
+    margin-bottom: 20px; /* Spazio sotto il titolo */
+}
+
+.card-title {
+    font-size: 1.1rem; /* Dimensione nome skill */
+    font-weight: bold; /* Nome in grassetto */
+}

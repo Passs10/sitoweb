@@ -1,0 +1,130 @@
+/* Contenitore principale del profilo */
+.profile-box {
+    background-color: #1b263b; /* Colore blu scuro per il contenitore principale */
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombra leggera */
+    text-align: center;
+    margin-bottom: 30px;
+    width: 350px;
+    margin-left: 50px;
+    margin-top: 100px;
+  }
+  
+  /* Foto del profilo */
+  .profile-photo {
+    border-radius: 15%; /* Rende la foto rotonda */
+    width: 170px;
+    height: 170px;
+    object-fit: cover; /* Mantiene le proporzioni dell'immagine */
+    margin-top: -100px; /* Sposta la foto verso l'alto */
+  }
+  
+  /* Nome */
+  .profile-info h3 {
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 40px;
+  }
+  
+  /* Rettangolino per Software Developer, Web Developer, IT Consultant */
+  .profile-info .roles-box {
+    background-color: #415a77; /* Colore blu chiaro */
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+  }
+  
+  .profile-info .roles-box p {
+    color: #ffffff;
+    font-size: 1.1rem;
+    margin: 0px 0;
+  }
+  
+  /* Rettangolino per Email, Location e Social Icons */
+  .profile-info .contact-box {
+    background-color: #415a77; /* Colore blu chiaro */
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+  }
+  
+  .profile-info .contact-box p {
+    color: #ffffff;
+    font-size: 1.1rem;
+    margin: 5px 0;
+    word-break: break-word;   /* Permette all'email di andare a capo */
+    overflow-wrap: break-word; /* Alternativa per compatibilità */
+    white-space: normal;       /* Evita che rimanga su un'unica riga */
+  }
+  
+  /* Icone social dentro il rettangolo */
+  .social-icons {
+    margin-top: 10px;
+  }
+  
+  .social-icons .social-icon {
+    color: #ffffff;
+    font-size: 1.8rem;
+    margin: 0 10px;
+    transition: color 0.3s;
+  }
+  
+  .social-icons .social-icon:hover {
+    color: #0d1b2a; /* Colore blu scuro al passaggio del mouse */
+  }
+  
+  /* Bottone "Download CV" */
+  button {
+    background-color: #415a77; /* Colore blu chiaro */
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 50px;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0d1b2a; /* Colore blu più scuro al passaggio del mouse */
+  }
+
+  @media (max-width: 1399px) {
+    .profile-box {
+      margin-left: 0;
+    }
+  }
+  
+  /* Profilo responsivo */
+  @media (max-width: 767px) {
+    .profile-box {
+      margin: 0 auto;
+      width: 80%; /* Adatta la larghezza del profilo per dispositivi più piccoli */
+      margin-top: 70px;
+    }
+  
+    .profile-photo {
+      width: 140px;
+      height: 140px;
+    }
+  
+    .profile-info h3 {
+      font-size: 1.5rem;
+    }
+  
+    .profile-info .roles-box p,
+    .profile-info .contact-box p {
+      font-size: 1rem;
+    }
+  
+    .contact-box p {
+      font-size: 0.9rem;
+    }
+  
+    .social-icons .social-icon {
+      font-size: 1.5rem;
+    }
+  }  

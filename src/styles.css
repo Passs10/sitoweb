@@ -1,0 +1,23 @@
+body {
+    background-color: #778da9 !important;
+}
+
+  /* Imposta html e body per occupare l'intera altezza della viewport */
+  html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Contenitore principale dell'app, in colonna */
+  .app-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;  /* L'altezza minima è uguale all'altezza della viewport */
+  }
+  
+  /* La parte centrale si espande per riempire lo spazio disponibile */
+  .main-content {
+    flex: 1;
+  }
+  

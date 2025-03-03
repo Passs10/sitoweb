@@ -1,0 +1,18 @@
+.about-section h2 {
+    font-size: 24px; /* Dimensione titolo */
+    font-weight: bold; /* Grassetto */
+    margin-bottom: 15px; /* Spazio sotto il titolo */
+}
+
+.about-section p {
+    font-size: 1.1rem; /* Dimensione del testo */
+    line-height: 1.6; /* Spaziatura tra le righe per migliore leggibilità */
+    margin-bottom: 10px; /* Spazio tra i paragrafi */
+    text-align: justify; /* Allineamento testo */
+}
+
+@media (max-width: 991px) {
+    .about-section p {
+        text-align: left; /* Allineamento testo */
+    }
+}

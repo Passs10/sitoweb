@@ -1,0 +1,41 @@
+.router-outlet-wrapper {
+    margin-left: 50px;  /* Regola il valore per spostare il contenuto a destra */
+  }
+
+  .content-rectangle {
+    background-color: #1b263b;  /* Sfondo blu */
+    color: #fff;                /* Testo bianco */
+    border-radius: 15px;        /* Arrotondamento degli angoli */
+    padding: 20px;              /* Spazio interno per rendere il rettangolo più gradevole */
+    margin-bottom: 20px;        /* Facoltativo, per separare eventuali altri contenuti sottostanti */
+    margin-top: 60px;           /* Facoltativo, per separare eventuali altri contenuti sovrastanti */
+  }
+
+@media (max-width: 1399px) {
+  .router-outlet-wrapper {
+      margin-left: 50px;
+  }
+}
+
+@media (max-width: 1199px) {
+  .router-outlet-wrapper {
+      margin-left: 90px;
+  }
+}
+
+@media (max-width: 991px) {
+  .router-outlet-wrapper {
+      margin-left: 135px;
+  }
+}
+
+/* Quando lo schermo è più piccolo di 768px */
+@media (max-width: 767px) {
+  .router-outlet-wrapper {
+      margin-left: 0; /* Rimuove lo spostamento verso destra */
+  }
+
+  .content-rectangle {
+      margin-top: 10px; /* Riduce lo spazio sopra il rettangolo */
+  }
+}

@@ -1,0 +1,68 @@
+/* Navbar per schermi desktop (larghezza fissa, posizionata a destra) */
+.custom-navbar {
+    width: 400px;
+    margin-left: auto;
+    border-radius: 25px;
+    background-color: #1b263b;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: center;
+    transition: all 0.3s ease-in-out;
+  }
+
+  /* Aumento dimensione dei link e padding per una maggiore visibilità */
+.navbar-nav .nav-link {
+    font-size: 1.2rem;
+    padding: 10px 25px;
+  }
+  
+  /* Navbar su schermi inferiori a 768px:
+     - rettangolo più piccolo e centrato (senza margine destro)
+     - menu a tendina (hamburger) centrato */
+  @media (max-width: 767px) {
+    .custom-navbar {
+      width: 200px;           /* Rettangolo più piccolo (quasi quadrato) */
+      margin: 0 auto;         /* Centrato, nessun margine laterale */
+      background-color: #1b263b;
+      border-radius: 15px;      /* Arrotondamento regolabile */
+      padding: 15px 20px;
+      display: flex;
+      justify-content: center;
+      margin-top: 35px;       /* Spazio sopra la navbar */
+    }
+  
+    /* Stile del menu a tendina (hamburger) */
+    .navbar-collapse {
+      position: absolute;
+      top: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      background-color: #1b263b;
+      padding: 10px;
+      border-radius: 15px;
+      width: 200px;           /* Larghezza coerente con la navbar */
+      text-align: center;
+      z-index: 1100;          /* Sopra tutti gli altri elementi */
+    }
+  
+    /* Impostazione delle voci del menu in colonna e centrate */
+    .navbar-nav {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    /* Spazio verticale tra le voci (mobile) */
+    .navbar-nav .nav-item:not(:last-child) {
+      margin-bottom: 5px;
+    }
+  }
+  
+  /* Navbar su schermi a partire da 768px (desktop e tablet):
+    mantiene il menu orizzontale centrato */
+  @media (min-width: 768px) and (max-width: 991px) {
+    .custom-navbar {
+        width: 200px;        /* Larghezza ridotta */
+    }
+  }
+        
+    

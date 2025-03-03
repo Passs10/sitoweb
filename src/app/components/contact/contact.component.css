@@ -1,0 +1,9 @@
+.contact-section h2 {
+    font-size: 24px; /* Titolo in 24px */
+    font-weight: bold; /* Grassetto */
+    margin-bottom: 20px; /* Spazio sotto il titolo */
+}
+
+.form-group {
+    margin-bottom: 15px; /* Spazio tra i campi */
+}

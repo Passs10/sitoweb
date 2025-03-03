@@ -1,0 +1,27 @@
+<div class="app-container">
+  <div class="main-content">
+    <!-- Contenitore principale per i componenti affiancati (Profilo + Skills/About) -->
+    <div class="container my-4">
+      <div class="row">
+        <!-- Colonna Profilo -->
+        <div class="col-md-4">
+          <app-profile></app-profile> <!-- Componente per il Profilo -->
+        </div>
+
+        <!-- Colonna per il contenuto principale (Skills/ About / ecc.) -->
+        <div class="col-md-8">
+          <!-- App Header -->
+          <app-header></app-header>
+          <div class=" router-outlet-wrapper">
+            <div class="content-rectangle">
+              <router-outlet></router-outlet> <!-- Qui vengono caricati i componenti dinamici (About, Skills, etc.) -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+    <!-- App Footer -->
+    <app-footer></app-footer>
+</div>
