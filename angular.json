@@ -47,7 +47,7 @@
                 }
               ],
               "outputHashing": "all",
-              "baseHref": "/sitoweb/"
+              "baseHref": "/"
             },
             "development": {
               "optimization": false,
