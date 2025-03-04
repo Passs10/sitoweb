@@ -10,6 +10,13 @@
     transition: all 0.3s ease-in-out;
   }
 
+/* Centrare SOLO il contenuto (voci di menu) */
+.custom-navbar .navbar-nav {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
   /* Aumento dimensione dei link e padding per una maggiore visibilità */
 .navbar-nav .nav-link {
     font-size: 1.2rem;
