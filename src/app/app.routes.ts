@@ -5,10 +5,10 @@ import { ContactComponent } from './components/contact/contact.component';
 import { MessageSentComponent } from './components/message-sent/message-sent.component';
 
 export const routes: Routes = [
-    { path: '', redirectTo: '/about', pathMatch: 'full' },
-    { path: 'about', component: AboutComponent },
+    { path: '', redirectTo: '/chi-sono', pathMatch: 'full' },
+    { path: 'chi-sono', component: AboutComponent },
     { path: 'skills', component: SkillsComponent },
-    { path: 'contact', component: ContactComponent },
+    { path: 'contatti', component: ContactComponent },
     { path: 'message-sent', component: MessageSentComponent },
-    { path: '**', redirectTo: '/about' }
+    { path: '**', redirectTo: '/chi-sono' }
 ];
