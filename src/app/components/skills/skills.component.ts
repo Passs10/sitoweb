@@ -16,11 +16,11 @@ interface Skill {
 
 export class SkillsComponent {
   skills: Skill[] = [
-    { name: 'HTML', img: 'assets/images/317755_badge_html_html5_achievement_award_icon.png' },
-    { name: 'CSS', img: 'assets/images/317756_badge_css_css3_achievement_award_icon.png' },
+    { name: 'Angular', img: 'assets/images/angular.png' },
+    { name: 'Spring', img: 'assets/images/icons8-spring-boot-48.png' },
     { name: 'JavaScript', img: 'assets/images/javascript.png' },
     { name: 'Figma', img: 'assets/images/7564187_figma_logo_brand_icon.png' },
-    { name: 'Java', img: 'assets/images/Java-Emblem.png' },
+    { name: 'Java', img: 'assets/images/icons8-java-48.png' },
     { name: 'Python', img: 'assets/images/4375050_logo_python_icon.png' },
     { name: 'C', img: 'assets/images/pngegg.png' },
     { name: 'C++', img: 'assets/images/7564189_c_logo_plus plus_plus_+ +_icon.png' },
