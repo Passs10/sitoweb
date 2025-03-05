@@ -46,7 +46,7 @@
   /* Rettangolino per Email, Location e Social Icons */
   .profile-info .contact-box {
     background-color: #415a77; /* Colore blu chiaro */
-    padding: 15px;
+    padding: 5px;
     margin-top: 10px;
     margin-bottom: 25px;
     border-radius: 10px;
@@ -102,7 +102,7 @@
   @media (max-width: 767px) {
     .profile-box {
       margin: 0 auto;
-      width: 80%; /* Adatta la larghezza del profilo per dispositivi più piccoli */
+      width: 94%; /* Adatta la larghezza del profilo per dispositivi più piccoli */
       margin-top: 70px;
     }
   
@@ -125,6 +125,6 @@
     }
   
     .social-icons .social-icon {
-      font-size: 1.5rem;
+      font-size: 1.8rem;
     }
   }  
